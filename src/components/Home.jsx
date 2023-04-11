@@ -12,7 +12,6 @@ const Home = () => {
 developing web applications using MERN stack</p>
 <div>
 <button className='group text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600'>
-
 Projects <HiArrowNarrowRight className='ml-3 group-hover:rotate-90 duration-300'/></button>  
 </div>
 </div>

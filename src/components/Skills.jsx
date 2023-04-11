@@ -8,6 +8,7 @@ import Node from '../assets/node.png'
 import Mongo from '../assets/mongo.png'
 import AWS from '../assets/aws.png'
 import Github from '../assets/github.png'
+import Java from '../assets/download.png'
 
 
 const Skills = () => {
@@ -54,6 +55,10 @@ const Skills = () => {
                 <div className='shadow-md shadow-blue-600 hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Github} alt="HTML icon"/>
                     <p className='my-4'>Github</p>
+                </div>
+                <div className='shadow-md shadow-blue-600 hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={Java} alt="HTML icon"/>
+                    <p className='my-4'>Java</p>
                 </div>
             </div>
         </div>
